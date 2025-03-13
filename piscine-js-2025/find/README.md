@@ -15,4 +15,4 @@ Ce répertoire contient divers fichiers JavaScript qui illustrent l'utilisation 
 
 ## Prochain jour
 
-Soon...
+Pour le prochain jour de la piscine, consultez le [README du jour suivant](../time/README.md).
